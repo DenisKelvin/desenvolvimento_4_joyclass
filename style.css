@@ -29,12 +29,7 @@ header span{
     font-weight: 700;
 }
 
-header a{
-    font-size: large;
-    text-decoration: none;
-    color: yellow;
-    padding: 20px;
-}
+
 main{
     justify-content: space-between;
     flex: 1;
